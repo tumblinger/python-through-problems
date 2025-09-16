@@ -9,7 +9,7 @@ def too_much_screen_time(hours):
             return True
    
     weekly_avg = sum(hours) / 7
-    if weekly_avg >= 6:
+    if weekly_avg >= 6 - 1e-10:
         return True
     
     return False
