@@ -1,5 +1,5 @@
-1 # python-through-problems
-## Tests Status
+ # python-through-problems
+## 1. Tests Status
 
 ✅ test_screen_time.py All tests passed!!!
 
